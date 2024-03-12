@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+int main () {
+    float inr = 25756 ; //you can take input or enter any other no
+    float dollar = inr / 82.80 ;
+    cout << "INR To Dollar : " << dollar;
+}
